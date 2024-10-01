@@ -16,7 +16,7 @@ setup(
     description='Quotex Api Client written in python.',
     author='Cleiton Leonel Creton',
     author_email='cleiton.leonel@gmail.com',
-    url='https://github.com/cleitonleonel/pyquotex.git',
+    url='https://github.com/bitcoin4cashqc/pyquotex.git',
     # download_url='https://github.com/cleitonleonel/pyquotex/archive/v_1.0.0.tar.gz',
     keywords=['SOME', 'MEANINGFULL', 'KEYWORDS'],
     install_requires=[
